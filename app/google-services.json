@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982398726086",
+    "project_id": "my-ibm-project-3bc73",
+    "storage_bucket": "my-ibm-project-3bc73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982398726086:android:52c9d6568eddec00f0ccc7",
+        "android_client_info": {
+          "package_name": "com.example.myibmproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982398726086-lodr4jii0s6to182sbhl83g70afhs7nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbmfA7Awz4aub27bwyDP_AiNp1qs9sdzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982398726086-lodr4jii0s6to182sbhl83g70afhs7nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
